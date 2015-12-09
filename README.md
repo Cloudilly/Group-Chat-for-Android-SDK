@@ -1,7 +1,7 @@
 #Anonymous Group Chat for Android SDK
 Repository contains sample codes required to build an anonymous group chat application using Cloudilly Android SDK.
 
-![Anonymous](https://github.com/Cloudilly/Images/blob/master/ios_anonymous.png)
+![Anonymous](https://github.com/Cloudilly/Images/blob/master/android_anonymous.png)
 
 ---
 
