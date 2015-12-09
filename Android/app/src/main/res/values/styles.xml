@@ -1,0 +1,110 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="WhiteText">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="WhiteText.BigText">
+        <item name="android:textSize">@dimen/text_big</item>
+    </style>
+
+    <style name="WhiteText.NormalText">
+        <item name="android:textSize">@dimen/text_normal</item>
+    </style>
+
+    <style name="WhiteText.NormalText.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="WhiteText.SmallText">
+        <item name="android:textSize">@dimen/text_small</item>
+    </style>
+
+    <style name="WhiteText.BigText.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--black -->
+    <style name="BlackText">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="BlackText.BigText">
+        <item name="android:textSize">@dimen/text_big</item>
+    </style>
+
+    <style name="BlackText.NormalText">
+        <item name="android:textSize">@dimen/text_normal</item>
+    </style>
+
+    <style name="BlackText.NormalText.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BlackText.SmallText">
+        <item name="android:textSize">@dimen/text_small</item>
+    </style>
+
+    <style name="BlackText.BigText.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--dark gray -->
+    <style name="DarkGrayText">
+        <item name="android:textColor">#464646</item>
+    </style>
+
+    <style name="DarkGrayText.BigText">
+        <item name="android:textSize">@dimen/text_big</item>
+    </style>
+
+    <style name="DarkGrayText.NormalText">
+        <item name="android:textSize">@dimen/text_normal</item>
+    </style>
+
+    <style name="DarkGrayText.NormalText.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="DarkGrayText.SmallText">
+        <item name="android:textSize">@dimen/text_small</item>
+    </style>
+
+    <style name="DarkGrayText.BigText.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:background">@drawable/white_rounded_rectangle</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="ButtonTransparant">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/btn_height</item>
+        <item name="android:background">@drawable/trans_rectangle_off</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">#777777</item>
+    </style>
+
+</resources>
