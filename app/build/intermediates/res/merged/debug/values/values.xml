@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -20,20 +20,20 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="actionbar_bg">#464646</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="black">#000000</color>
     <color name="blue">#5c7bb8</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -43,12 +43,12 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="colorAccent">#ffffff</color>
     <color name="colorPrimary">#464646</color>
     <color name="colorPrimaryDark">#000000</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -56,12 +56,12 @@
     <color name="dim_foreground_material_light">#ff323232</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="grey">#687586</color>
     <color name="grey_light">#c6ced8</color>
     <color name="grid_grey">#e2e1e1</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
@@ -79,10 +79,10 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="menu_divider">#95c61c</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -92,10 +92,10 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="red">#dd3344</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <color name="ripple_material_dark">#33ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
@@ -107,7 +107,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="white">#ffffff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
@@ -138,7 +138,7 @@
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/></declare-styleable>
     <declare-styleable name="ViewBackgroundHelper"><attr name="android:background"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -207,14 +207,14 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="big_padding">20dp</dimen>
     <dimen name="btn_height">40dp</dimen>
     <dimen name="common_padding">10dp</dimen>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
@@ -224,14 +224,14 @@
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="small_padding">5dp</dimen>
     <dimen name="text_big">24sp</dimen>
     <dimen name="text_normal">16sp</dimen>
     <dimen name="text_small">14sp</dimen>
     <dimen name="text_super_big">42sp</dimen>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -267,22 +267,22 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Anonymous Group Chat</string>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="title_activity_chat">Cloudilly</string>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
@@ -290,7 +290,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1227,7 +1227,7 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="BlackText">
         <item name="android:textColor">#000000</item>
@@ -1286,7 +1286,7 @@
         <item name="android:paddingRight">10dp</item>
         <item name="android:gravity">center_vertical</item>
     </style>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1526,7 +1526,7 @@
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="WhiteText">
         <item name="android:textColor">#FFFFFF</item>
@@ -1546,7 +1546,7 @@
     <style name="WhiteText.SmallText">
         <item name="android:textSize">@dimen/text_small</item>
     </style>
-    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
+    <!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>

@@ -6,4 +6,4 @@
     <item android:drawable="@drawable/trans_rectangle_on" android:state_focused="false" android:state_pressed="true"/>
     <item android:drawable="@drawable/trans_rectangle_off" android:state_focused="false" android:state_pressed="false"/>
 
-</selector><!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/Android/app/src/main/res/drawable/trans_rectangle_selector.xml -->
+</selector><!-- From: file:/Users/ngzhongcai/Desktop/Anonymous-Group-Chat-for-Android-SDK-master/app/src/main/res/drawable/trans_rectangle_selector.xml -->
